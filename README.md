@@ -44,15 +44,33 @@ The following KPIs were calculated:
 
 ## Analysis
 
-### Sales by Category
+### 📊 Sales by Category
 
-- **Tecnologia** leads in revenue (~5.82M) with a total profit of ~1.87M and a margin of ~32%.
-- **Muebles** shows balanced performance with ~2.2M in revenue and ~35% margin.
-- **Oficina**, while generating lower revenue (~123K), has the highest margin (~58%), indicating strong profitability.
+Tecnologia leads in revenue (~5.82M) with a total profit of ~1.87M and a margin of ~32%.
 
-### Insight
+Muebles shows balanced performance with ~2.2M in revenue and ~35% margin.
+
+Oficina, while generating lower revenue (~123K), has the highest margin (~58%), indicating strong profitability.
+
+### 💡 Insight
 
 Technology dominates in sales volume but has lower relative profitability. In contrast, Office products show high margins, suggesting an opportunity to increase revenue through growth strategies focused on high-profit items.
+
+---
+
+### 📅 Sales Trend Analysis
+
+Se analizó el comportamiento de ventas a lo largo del tiempo para identificar patrones y estacionalidad.
+
+#### 🔍 Results:
+
+- Febrero presenta uno de los mayores niveles de ingresos (~833K).
+- Meses como agosto muestran niveles más bajos de ventas.
+- El margen se mantiene estable entre ~32% y ~34%.
+
+#### 💡 Insight:
+
+Las ventas presentan variaciones mensuales (estacionalidad). Sin embargo, la estabilidad del margen indica un buen control de costos y precios a lo largo del tiempo.
 
 ---
 
