@@ -1,12 +1,21 @@
 # 📊 SQL Sales Analysis Project
 
-This project focuses on analyzing a real-world sales dataset using SQL to extract business insights and support decision-making.
+This project presents an end-to-end sales data analysis using SQL, Excel, and Power BI, transforming raw data into actionable business insights.
 
 ---
 
 ## 🎯 Objective
 
 Analyze sales performance to identify trends, profitability, and opportunities by category, region, and other key business dimensions.
+
+---
+
+## 📁 Project Structure
+
+* `queries.sql` → SQL queries used for data cleaning and analysis
+* `dashboard_resumen.png` → Overview dashboard (Power BI)
+* `dashboard_analisis.png` → Profitability analysis dashboard
+* `dashboard_detalle.png` → Detailed sales view
 
 ---
 
@@ -165,6 +174,15 @@ Esto sugiere oportunidades para:
 * Incrementar ventas de productos de alta rentabilidad
 * Optimizar costos en Tecnología
 * Balancear volumen vs rentabilidad
+
+---
+
+## 🚀 Business Impact
+
+* Identified high-revenue vs high-margin categories
+* Detected seasonal sales patterns
+* Evaluated sales team performance
+* Highlighted regional profitability differences
 
 ---
 
