@@ -114,6 +114,60 @@ Sales show seasonal variation across months. However, the consistent margin indi
 
 ---
 
+### 🧑‍💼 Top Sales Performance
+
+Se analizó el desempeño de los vendedores para identificar a los principales generadores de ingresos.
+
+#### 🔍 Resultados:
+
+* Maria Lopez lidera el ranking con aproximadamente **2.23M en ingresos** y **750K en utilidad**.
+* Es seguida por Ana Torres (~2.08M) y Carlos Diaz (~1.95M).
+* Todos los vendedores presentan márgenes similares (~33%).
+
+#### 💡 Insight:
+
+El rendimiento entre vendedores es consistente en términos de rentabilidad, lo que sugiere que la diferencia en desempeño está impulsada principalmente por el volumen de ventas y no por la eficiencia. Esto indica una oportunidad para replicar las estrategias comerciales del vendedor líder en el resto del equipo.
+
+---
+
+### 🌎 Sales by Region
+
+Se analizó el desempeño de ventas por región para identificar diferencias en ingresos y rentabilidad.
+
+#### 🔍 Resultados:
+
+* **Sierra** lidera en ingresos con aproximadamente **2.83M**, seguida por **Selva** (~2.77M) y **Costa** (~2.53M).
+* Sin embargo, **Costa presenta el mayor margen (~33.9%)**, superando a las demás regiones.
+
+#### 💡 Insight:
+
+Aunque la región Sierra genera el mayor volumen de ingresos, la región Costa destaca en rentabilidad. Esto sugiere oportunidades para optimizar precios o costos en Sierra o impulsar el crecimiento en Costa.
+
+---
+
+### 📈 Advanced Analysis: Region + Category
+
+Se realizó un análisis cruzado entre región y categoría para identificar patrones de rendimiento más profundos.
+
+#### 🔍 Resultados:
+
+* La combinación **Sierra + Tecnologia** genera el mayor ingreso (~2.12M).
+* La categoría **Tecnologia domina en todas las regiones**.
+* La categoría **Oficina presenta el mayor margen (~58%–59%)** en todas las regiones.
+* **Muebles** mantiene un desempeño intermedio.
+
+#### 💡 Insight:
+
+El negocio depende fuertemente de la categoría Tecnología para generar ingresos, pero esta no es la más rentable. En contraste, Oficina ofrece márgenes significativamente más altos.
+
+Esto sugiere oportunidades para:
+
+* Incrementar ventas de productos de alta rentabilidad
+* Optimizar costos en Tecnología
+* Balancear volumen vs rentabilidad
+
+---
+
 ## 🧮 Example SQL Query
 
 ```sql
